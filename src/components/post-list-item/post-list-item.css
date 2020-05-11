@@ -15,8 +15,8 @@
   outline: none;
 }
 
-.app-list-item .btn-start  {
-    color: #dec748;
+.important .btn-start  {
+    color: #31bcf5;
 }
 .app-list-item .btn-trash {
     color: red;
@@ -27,7 +27,7 @@
   text-align: center;
   line-height: 35px;
   font-size: 16px;
-  color: red;
+  color: #17a2b8;
   transition: 0.3s all;
   transform: translateX(30px);
   opacity: 0;
@@ -47,11 +47,11 @@
 }
 
 .app-list-item.important .app-list-item-label {
-  color: #ffd700;
+  color: #31bcf5;
 }
 
 .app-list-item.important .btn-star {
-  color: #aeaeae;
+  color: #31bcf5;
 }
 
 
